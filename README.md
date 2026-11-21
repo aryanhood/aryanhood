@@ -4,8 +4,6 @@
 
 Currently, building at the intersection of software and artificial intelligence — applications that use AI to understand, analyse and solve real-world problems.
 
-My work and learning is in machine learning, computer vision, intelligent systems and AI-powered applications. I’m interested in how modern AI models and agents can become useful, reliable software.
-
 ### What I'm exploring
 
 - **Applied AI:** LLMs, AI agents, tool use, context engineering and model evaluation.
@@ -34,14 +32,6 @@ Data & Problem Solving: Data Structures & Algorithms · Dynamic Programming · D
 Robotics & Control Systems: ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Camera Calibration · Multi-View Geometry · Triangulation
 
 Cloud & Development: AWS · Google Cloud · Git · Docker · Linux
-
-### Currently exploring
-Building reliable AI agents through model selection, context management, tool integration and evaluation.
-Developing RAG applications with better retrieval, grounding and response quality.
-Backend architecture, API design and production-oriented software development.
-Computer vision, multi-camera tracking and real-world image processing.
-Robotics, control systems and simulation-based validation.
-Interested in Software Engineering, Tool Development, AI Engineering, Machine Learning and Data Engineering opportunities.
 
 LinkedIn
 
