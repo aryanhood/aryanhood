@@ -1,6 +1,6 @@
 # Aryan Hood
 
-**Software Engineering | Backend Development | Machine Learning | Applied AI**
+**Software Engineering | Tools Development | Machine Learning | Applied AI**
 
 Building software systems across backend engineering, machine learning, applied AI, data processing and robotics. Current work includes ML pipelines, AI agents, computer vision, API development and control systems.
 
@@ -33,7 +33,7 @@ Building an AI-based decision support system for vibration-based bearing fault d
 - **Software Engineering:** Working with data structures, algorithms, object-oriented programming, API design, modular architecture, testing and system validation.
 - **Cloud Platforms:** Exposure to AWS and Google Cloud services, cloud fundamentals, application authentication and deployment workflows.
 
-## Tools I use
+## Skills
 
 **Languages:** Python · C++ · JavaScript · SQL
 
@@ -57,6 +57,6 @@ Building an AI-based decision support system for vibration-based bearing fault d
 - Computer vision, multi-camera tracking and real-world image processing.
 - Robotics, control systems and simulation-based validation.
 
-Interested in **Software Engineering, Backend Development, AI Engineering, Machine Learning and Data Engineering** opportunities.
+Interested in **Software Engineering, Tool Development, AI Engineering, Machine Learning and Data Engineering** opportunities.
 
-[GitHub](https://github.com/aryanhood) · [LinkedIn](https://www.linkedin.com/in/aryanhood/)
+[LinkedIn](https://www.linkedin.com/in/aryanhood/)
