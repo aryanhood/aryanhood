@@ -21,20 +21,28 @@ My work and learning is in machine learning, computer vision, intelligent system
 
 ### Technical Skills
 
-**Languages:** Python · C++ · SQL
+Languages: Python · C++ · JavaScript · SQL
 
-**AI & Machine Learning:** Machine Learning · Deep Learning · Computer Vision · Object Detection · Anomaly Detection · Model Evaluation
+Backend & Software Engineering: FastAPI · REST APIs · MySQL · SQLite · Git · GitHub · Docker · Linux · OOP · Testing
 
-**Generative AI:** LLMs · AI Agents · RAG · Tool Calling · AI-powered Applications
+AI & Machine Learning: Scikit-learn · TensorFlow · YOLOv5 · YOLOv8 · ONNX · Model Evaluation · Anomaly Detection · Computer Vision
 
-**Software & Tools:** FastAPI · Git · Linux · REST APIs · ROS 2
+Generative AI: LLMs · RAG · AI Agents · Prompt Engineering · Context Engineering · Tool Calling · Agent Evaluation · Observability
 
-**Cloud:** AWS · Google Cloud
+Data & Problem Solving: Data Structures & Algorithms · Dynamic Programming · Divide and Conquer · Union-Find · Hash Tables · Arrays · Strings · Sorting · Database Queries · Time-Series Analysis · Signal Processing
 
-### Currently Exploring
+Robotics & Control Systems: ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Camera Calibration · Multi-View Geometry · Triangulation
 
-Generative AI · AI Agents · Multimodal AI · Intelligent Applications · Modern AI Development
+Cloud & Development: AWS · Google Cloud · Git · Docker · Linux
 
-### Connect
+### Currently exploring
+Building reliable AI agents through model selection, context management, tool integration and evaluation.
+Developing RAG applications with better retrieval, grounding and response quality.
+Backend architecture, API design and production-oriented software development.
+Computer vision, multi-camera tracking and real-world image processing.
+Robotics, control systems and simulation-based validation.
+Interested in Software Engineering, Tool Development, AI Engineering, Machine Learning and Data Engineering opportunities.
+
+LinkedIn
 
 [LinkedIn](https://www.linkedin.com/in/aryanhood/)
