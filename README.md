@@ -1,8 +1,8 @@
-## Hi there, I am Aryan Hood 👋
+# Aryan Hood
 
-**Building software systems across AI, backend engineering, machine learning and intelligent systems.**
+**Software Engineering | Backend Development | Machine Learning | Applied AI**
 
-Working across software development, applied AI and data-driven systems, with a focus on building practical applications from the ground up. Current work spans backend services, machine learning pipelines, computer vision, AI agents, robotics and system-level problem solving.
+Building software systems across backend engineering, machine learning, applied AI, data processing and robotics. Current work includes ML pipelines, AI agents, computer vision, API development and control systems.
 
 ## What I'm building
 
@@ -11,52 +11,52 @@ Working across software development, applied AI and data-driven systems, with a 
 Building an AI-based decision support system for vibration-based bearing fault diagnosis.
 
 - Developing time-series data pipelines to process vibration signals and identify four bearing conditions: Normal, Inner Race, Outer Race and Ball Fault.
-- Evaluating feature-based ML and deep learning approaches through model performance, classification metrics and inference behaviour.
+- Evaluating feature-based ML and deep learning models for fault classification and performance.
 - Building a FastAPI backend with prediction, health, metrics and explanation endpoints, including input validation and error handling.
-- Developing an AI agent layer to interpret model outputs, assess equipment health and generate SAFE, WARNING and CRITICAL alerts.
+- Developing an AI agent to interpret model outputs and anomaly signals, assess bearing health and generate SAFE, WARNING and CRITICAL alerts.
 
 [SHM Bearing Diagnosis — source code](https://github.com/aryanhood/shm-bearing-dataset)
 
 ### Selected work
 
-- **[HawkEye Lite](https://github.com/aryanhood/hawkeye-lite):** Building a multi-camera tennis tracking system involving camera calibration, object detection, multi-view geometry, triangulation and physics-aware tracking, with an emphasis on modular architecture and reproducible testing.
-- **[UAV Flight Incident Visualizer](https://github.com/aryanhood/uav):** Developing a RAG and GenAI-oriented flight incident analysis application with telemetry visualization, event reconstruction, incident scoring and scenario-based validation.
-- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel):** Developing a robotic inspection simulation comparing adaptive, risk-aware inspection planning with fixed patrol strategies, supported by experiment tracking, route analysis and SQLite persistence.
-- **[Tennis Ball Tracking](https://github.com/aryanhood/tennisball-tracking):** Working on computer vision-based tennis video analysis using YOLOv8 and ONNX, with model optimization, multiprocessing and automated reporting.
-- **[ROS 2 Modular Motion Controller](https://github.com/aryanhood/controller-ros2):** Implementing a ROS 2 Humble control architecture with lifecycle nodes, parameterized motion control, safety validation and launch-based orchestration.
-- **[Self-Balancing Control System](https://github.com/aryanhood/self_balance_robot):** Comparing PID and LQR control strategies through simulation, disturbance rejection analysis and control-effort evaluation.
-- **[ROS 2 Goal Seek](https://github.com/aryanhood/goal-seek):** Working on closed-loop robotic navigation, goal seeking and waypoint following using ROS 2.
-- **[StarWars Object Detection](https://github.com/aryanhood/StarWars-ObjectDetection-TF):** Applying transfer learning with the TensorFlow Object Detection API to identify objects in custom image datasets.
+- **[HawkEye Lite](https://github.com/aryanhood/hawkeye-lite):** Building a multi-camera tennis tracking system involving camera calibration, object detection, multi-view geometry, triangulation and physics-aware tracking.
+- **UAV Flight Incident Visualizer:** Developing a flight incident analysis application using RAG and LLMs, with telemetry visualization, event reconstruction, incident scoring and scenario-based validation.
+- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel):** Developing a robotic inspection simulation comparing adaptive, risk-aware inspection planning with fixed patrol strategies, including experiment tracking and SQLite persistence.
+- **[Tennis Ball Tracking](https://github.com/aryanhood/tennisball-tracking):** Computer vision-based tennis video analysis using YOLOv8 and ONNX, with model optimization, parallel processing and automated reporting.
+- **[ROS 2 Modular Motion Controller](https://github.com/aryanhood/controller-ros2):** Implementing a ROS 2 control architecture with lifecycle nodes, safety validation, parameterized control and launch-based orchestration.
+- **[Self-Balancing Control System](https://github.com/aryanhood/self_balance_robot):** Comparing PID and LQR controllers through simulation, disturbance rejection and control-effort analysis.
+- **[ROS 2 Goal Seek](https://github.com/aryanhood/goal-seek):** Implementing closed-loop robotic navigation, goal seeking and waypoint following using ROS 2.
 
 ## Beyond the projects
 
-- **DRDO · Machine Learning Internship:** Worked on object detection under challenging visual conditions, including low light, motion blur and occlusion. Developed application-specific validation datasets and evaluated YOLOv5 and COCO-SSD models.
-- **AI & Agent Development:** Exploring LLM-based applications, RAG pipelines, agent workflows, tool integration, context engineering, model evaluation and observability.
-- **Software Engineering:** Working with API design, modular architecture, testing, data structures, algorithms, object-oriented programming and system validation.
-- **Cloud & Platforms:** Exposure to AWS and Google Cloud fundamentals, cloud services, application authentication and modern AI platforms.
+- **AI & Agent Development:** Working with LLM applications, RAG pipelines, agent workflows, tool calling, context engineering, model evaluation and observability.
+- **Software Engineering:** Working with data structures, algorithms, object-oriented programming, API design, modular architecture, testing and system validation.
+- **Cloud Platforms:** Exposure to AWS and Google Cloud services, cloud fundamentals, application authentication and deployment workflows.
 
 ## Tools I use
 
-**Languages:** Python · JavaScript · SQL · C++
+**Languages:** Python · C++ · JavaScript · SQL
 
-**Backend & Software Engineering:** FastAPI · REST APIs · Git · GitHub · Docker · SQLite · OOP · API Design · Testing
+**Backend & Software Engineering:** FastAPI · REST APIs · MySQL · SQLite · Git · GitHub · Docker · Linux · OOP · Testing
 
 **AI & Machine Learning:** Scikit-learn · TensorFlow · YOLOv5 · YOLOv8 · ONNX · Model Evaluation · Anomaly Detection · Computer Vision
 
-**Generative AI:** LLMs · RAG · AI Agents · Prompt Engineering · Context Engineering · Tool Integration · Agent Evaluation
+**Generative AI:** LLMs · RAG · AI Agents · Prompt Engineering · Context Engineering · Tool Calling · Agent Evaluation · Observability
 
-**Data & Systems:** Time-Series Analysis · Signal Processing · Data Processing · Data Validation · Multiprocessing · Telemetry Analysis
+**Data & Problem Solving:** Data Structures & Algorithms · Dynamic Programming · Divide and Conquer · Union-Find · Hash Tables · Arrays · Strings · Sorting · Database Queries · Time-Series Analysis · Signal Processing
 
-**Robotics & Control Systems:** ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Multi-View Geometry
+**Robotics & Control Systems:** ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Camera Calibration · Multi-View Geometry · Triangulation
 
-**Cloud & Development:** AWS · Google Cloud · Linux · Git · Docker
+**Cloud & Development:** AWS · Google Cloud · Git · Docker · Linux
 
 ## Currently exploring
 
-- Building reliable AI agents through model selection, context management, tool use, orchestration and evaluation.
-- Developing RAG systems and LLM applications with better retrieval, grounding and response quality.
-- Designing scalable backend services and production-oriented software systems.
-- Combining machine learning, computer vision and real-world engineering applications.
-- Exploring robotics, autonomous systems, control theory and simulation-based validation.
+- Building reliable AI agents through model selection, context management, tool integration and evaluation.
+- Developing RAG applications with better retrieval, grounding and response quality.
+- Backend architecture, API design and production-oriented software development.
+- Computer vision, multi-camera tracking and real-world image processing.
+- Robotics, control systems and simulation-based validation.
 
-Interested in **Software Engineering, Tool Development, AI Engineering, Machine Learning and Data Engineering** opportunities.
+Interested in **Software Engineering, Backend Development, AI Engineering, Machine Learning and Data Engineering** opportunities.
+
+[GitHub](https://github.com/aryanhood) · [LinkedIn](https://www.linkedin.com/in/aryanhood/)
