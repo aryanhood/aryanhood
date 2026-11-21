@@ -1,62 +1,47 @@
-# Aryan Hood
+# Hi there, this is Aryan Hood 👋
 
-**Software Engineering | Tools Development | Machine Learning | Applied AI**
+### Software + AI | Building Intelligent Systems
 
-Building software systems across backend engineering, machine learning, applied AI, data processing and robotics. Current work includes ML pipelines, AI agents, computer vision, API development and control systems.
+Currently, building at the intersection of software and artificial intelligence — applications that use AI to understand, analyse and solve real-world problems.
 
-## What I'm building
+My work and learning is in machine learning, computer vision, intelligent systems and AI-powered applications. I’m interested in how modern AI models and agents can become useful, reliable software.
 
-### SHM — AI-Based Bearing Fault Diagnosis
+### Areas of Interest
 
-Building an AI-based decision support system for vibration-based bearing fault diagnosis.
+- **Artificial Intelligence:** Machine Learning, Deep Learning, Generative AI and AI Agents
+- **Intelligent Applications:** LLM-powered systems, tool use, context and AI-driven workflows
+- **Computer Vision:** Object Detection, Visual Tracking and Image Processing
+- **Software:** Python, C++, APIs, application development and system integration
 
-- Developing time-series data pipelines to process vibration signals and identify four bearing conditions: Normal, Inner Race, Outer Race and Ball Fault.
-- Evaluating feature-based ML and deep learning models for fault classification and performance.
-- Building a FastAPI backend with prediction, health, metrics and explanation endpoints, including input validation and error handling.
-- Developing an AI agent to interpret model outputs and anomaly signals, assess bearing health and generate SAFE, WARNING and CRITICAL alerts.
+### Selected Projects
 
-[SHM Bearing Diagnosis — source code](https://github.com/aryanhood/shm-bearing-dataset)
+- **[SHM Bearing Diagnosis](https://github.com/aryanhood/shm-bearing-dataset)** — Developing an AI-based decision support system for vibration-based bearing fault diagnosis, combining machine learning, anomaly detection and an AI agent layer for bearing health assessment and alerts.
+- **[HawkEye Lite](https://github.com/aryanhood/hawkeye-lite)** — Exploring multi-camera tennis tracking through computer vision, camera geometry and object tracking.
+- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel)** — A robotic inspection simulation exploring adaptive, risk-aware inspection planning and event analysis.
+- **[Tennis Ball Tracking](https://github.com/aryanhood/tennisball-tracking)** — Computer vision-based tennis ball tracking using object detection and video processing.
 
-### Selected work
+### Technical Skills
 
-- **[HawkEye Lite](https://github.com/aryanhood/hawkeye-lite):** Building a multi-camera tennis tracking system involving camera calibration, object detection, multi-view geometry, triangulation and physics-aware tracking.
-- **UAV Flight Incident Visualizer:** Developing a flight incident analysis application using RAG and LLMs, with telemetry visualization, event reconstruction, incident scoring and scenario-based validation.
-- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel):** Developing a robotic inspection simulation comparing adaptive, risk-aware inspection planning with fixed patrol strategies, including experiment tracking and SQLite persistence.
-- **[Tennis Ball Tracking](https://github.com/aryanhood/tennisball-tracking):** Computer vision-based tennis video analysis using YOLOv8 and ONNX, with model optimization, parallel processing and automated reporting.
-- **[ROS 2 Modular Motion Controller](https://github.com/aryanhood/controller-ros2):** Implementing a ROS 2 control architecture with lifecycle nodes, safety validation, parameterized control and launch-based orchestration.
-- **[Self-Balancing Control System](https://github.com/aryanhood/self_balance_robot):** Comparing PID and LQR controllers through simulation, disturbance rejection and control-effort analysis.
-- **[ROS 2 Goal Seek](https://github.com/aryanhood/goal-seek):** Implementing closed-loop robotic navigation, goal seeking and waypoint following using ROS 2.
+**Languages:** Python · C++ · SQL
 
-## Beyond the projects
+**AI & Machine Learning:** Machine Learning · Deep Learning · Computer Vision · Object Detection · Anomaly Detection · Model Evaluation
 
-- **AI & Agent Development:** Working with LLM applications, RAG pipelines, agent workflows, tool calling, context engineering, model evaluation and observability.
-- **Software Engineering:** Working with data structures, algorithms, object-oriented programming, API design, modular architecture, testing and system validation.
-- **Cloud Platforms:** Exposure to AWS and Google Cloud services, cloud fundamentals, application authentication and deployment workflows.
+**Generative AI:** LLMs · AI Agents · RAG · Tool Calling · AI-powered Applications
 
-## Skills
+**Software & Tools:** FastAPI · Git · Linux · REST APIs · ROS 2
 
-**Languages:** Python · C++ · JavaScript · SQL
+**Cloud:** AWS · Google Cloud
 
-**Backend & Software Engineering:** FastAPI · REST APIs · MySQL · SQLite · Git · GitHub · Docker · Linux · OOP · Testing
+### Experience
 
-**AI & Machine Learning:** Scikit-learn · TensorFlow · YOLOv5 · YOLOv8 · ONNX · Model Evaluation · Anomaly Detection · Computer Vision
+**Machine Learning Intern — DRDO**
 
-**Generative AI:** LLMs · RAG · AI Agents · Prompt Engineering · Context Engineering · Tool Calling · Agent Evaluation · Observability
+Worked on object detection under challenging visual conditions, including low light, motion blur and occlusion. Built application-specific validation datasets and evaluated object detection models.
 
-**Data & Problem Solving:** Data Structures & Algorithms · Dynamic Programming · Divide and Conquer · Union-Find · Hash Tables · Arrays · Strings · Sorting · Database Queries · Time-Series Analysis · Signal Processing
+### Currently Exploring
 
-**Robotics & Control Systems:** ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Camera Calibration · Multi-View Geometry · Triangulation
+Generative AI · AI Agents · Multimodal AI · Intelligent Applications · Modern AI Development
 
-**Cloud & Development:** AWS · Google Cloud · Git · Docker · Linux
-
-## Currently exploring
-
-- Building reliable AI agents through model selection, context management, tool integration and evaluation.
-- Developing RAG applications with better retrieval, grounding and response quality.
-- Backend architecture, API design and production-oriented software development.
-- Computer vision, multi-camera tracking and real-world image processing.
-- Robotics, control systems and simulation-based validation.
-
-Interested in **Software Engineering, Tool Development, AI Engineering, Machine Learning and Data Engineering** opportunities.
+### Connect
 
 [LinkedIn](https://www.linkedin.com/in/aryanhood/)
