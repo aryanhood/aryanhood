@@ -1,36 +1,22 @@
-# Hi there, this is Aryan Hood 👋
+### Hi, I'm Aryan 👋
 
-### Software + AI | Building Intelligent Systems
+Final-year B.Tech student in Pune, India. I build machine learning, computer vision, and control software that works reliably outside clean demos — on small CPUs, noisy sensors, and real-world video.
 
-Currently, building at the intersection of software and artificial intelligence — applications that use AI to understand, analyse and solve real-world problems.
+---
 
-### What I'm exploring
+#### Selected Work
 
-- **Applied AI:** LLMs, AI agents, tool use, context engineering and model evaluation.
-- **Intelligent systems:** Machine learning, computer vision, multimodal AI and decision systems.
-- **Software development:** integrating AI capabilities and shipping reliable software.
-- AI-native products, agentic workflows and emerging AI technologies.
+- **[BearingBench](https://github.com/aryanhood/shm-bearing-dataset)** — Detecting motor bearing faults even when rotation speed keeps changing, compressed into a 36 KB model that runs in 0.12 ms on a CPU. · [Technical Report (PDF)](https://github.com/aryanhood/shm-bearing-dataset/blob/main/paper/technical_report.pdf)
+- **[Hawk-Eye Lite](https://github.com/aryanhood/hawkeye-lite)** — 3D tennis ball tracking and automated `IN`/`OUT` line calling from multi-camera video, showing why single broadcast cameras suffer meter-scale depth errors.
+- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel)** — Smart patrol scheduling for an inspection robot watching noisy industrial sensors, cutting false alarms by 73× while catching real faults 17s faster.
+- **[Self-Balancing Robot](https://github.com/aryanhood/self_balance_robot)** — Optimal LQR vs. classical PID control benchmark for a two-wheeled balancing robot ([CoppeliaSim modules](https://github.com/aryanhood/eyantra-kb_3323)).
 
-### Selected Work
+---
 
-- **[SHM Bearing Diagnosis](https://github.com/aryanhood/shm-bearing-dataset)** — Developing an AI-based decision support system for vibration-based bearing fault diagnosis, combining machine learning, anomaly detection and an AI agent layer for bearing health assessment and alerts.
-- **[HawkEye Lite](https://github.com/aryanhood/hawkeye-lite)** — Exploring multi-camera tennis tracking through computer vision, camera geometry and object tracking.
-- **[Thermal Sentinel](https://github.com/aryanhood/thermal-sentinel)** — A robotic inspection simulation exploring adaptive, risk-aware inspection planning and event analysis.
+#### Stack
 
-### Technical Skills
+`Python` · `C++` · `TypeScript` · `PyTorch` · `ONNX Runtime` · `OpenCV` · `FastAPI` · `React` · `Docker` · `Linux`
 
-Languages: Python · C++ · JavaScript · SQL
+---
 
-Backend & Software Engineering: FastAPI · REST APIs · MySQL · SQLite · Git · GitHub · Docker · Linux · OOP · Testing
-
-AI & Machine Learning: Scikit-learn · TensorFlow · YOLOv5 · YOLOv8 · ONNX · Model Evaluation · Anomaly Detection · Computer Vision
-
-Generative AI: LLMs · RAG · AI Agents · Prompt Engineering · Context Engineering · Tool Calling · Agent Evaluation · Observability
-
-Data & Problem Solving: Data Structures & Algorithms · Dynamic Programming · Divide and Conquer · Union-Find · Hash Tables · Arrays · Strings · Sorting · Database Queries · Time-Series Analysis · Signal Processing
-
-Robotics & Control Systems: ROS 2 · PID · LQR · Closed-Loop Control · Motion Planning · Camera Calibration · Multi-View Geometry · Triangulation
-
-Cloud & Development: AWS · Google Cloud · Git · Docker · Linux
-
-- **LinkedIn:** [linkedin.com/in/aryanhood](https://www.linkedin.com/in/aryanhood/)
+[LinkedIn](https://www.linkedin.com/in/aryanhood/) · [Email](mailto:haaryan25@gmail.com)
