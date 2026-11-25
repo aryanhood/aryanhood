@@ -21,4 +21,4 @@ I build tools that make sense of messy real-world data—spinning machines, live
 
 ---
 
-[Portfolio](https://aryanhood.github.io) · [LinkedIn](https://www.linkedin.com/in/aryanhood/) · [Email](mailto:haaryan25@gmail.com)
+[Portfolio] · [LinkedIn](https://www.linkedin.com/in/aryanhood/) · [Email](mailto:haaryan25@gmail.com)
